@@ -59,7 +59,7 @@ pip install pymongo pandas
 
 ### 4. Jalankan Aplikasi
 ```bash
-python dasprogkelompok.py
+python main.py
 ```
 
 ## 🗃️ Struktur Database
@@ -103,7 +103,7 @@ python dasprogkelompok.py
 
 ## 🎯 Cara Penggunaan
 
-1. **Jalankan Program**: Eksekusi file `dasprogkelompok.py`
+1. **Jalankan Program**: Eksekusi file `main.py`
 2. **Pilih Membership**: 
    - Login jika sudah punya akun
    - Daftar akun baru untuk mendapat diskon
